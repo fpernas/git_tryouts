@@ -1,3 +1,5 @@
 text 1
 text 2
 texto amend
+----
+reset 1
