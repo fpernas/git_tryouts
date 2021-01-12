@@ -5,3 +5,5 @@ texto amend
 reset 1
 reset 2
 reset 3
+-----
+del rebase
